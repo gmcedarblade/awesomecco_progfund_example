@@ -1,6 +1,6 @@
 # Git practice project
 
-This is a practice site for me to learn Git.
+This is a practice site for me to learn Git in Progfund.
 
 ## Author
 
